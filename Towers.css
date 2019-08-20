@@ -3,7 +3,7 @@ body > header > nav > ul > li {
 	width: 20%;
 	float: right;
 	font-size: 1em;
-	color: black; 
+	color: Black; 
 	height: 100%;
 	text-align: center;
 	vertical-align:middle;
@@ -12,7 +12,7 @@ body{
     background-color: whitesmoke;
     color: black;
     font-family: 'Courier New', Courier, monospace;
-    text-align: center;
+    text-align: left;
 }
 body > header > nav > ul > li > a {
 	display: block;
@@ -28,34 +28,46 @@ body > header > nav > ul > li > a:hover {
 }
 footer {
 	clear: left;
-	background-color: black;
-	color:orange;
+	background-color: #7a7a7a;
+	color:rgb(23, 97, 1);
 	text-align:center;
 	vertical-align: middle;
 	height: 30px;
 	font-size: 0.9em;
 }
-body > section > header > ul > li {
-    display: block;
-    width: 33%;
-    float: left;
-	font-size: 1.5em;
-	color:orange; 
-	height: 100%;
-	text-align: center;
-    vertical-align:middle;
-    background-color: black;
+body > aside {
+    text-align: left;
+    font-size: .8em;
 }
-body > section > header > h2 {
-    text-align: center;
+body > section > p {
+    text-align: left;
+}
+body > section > h3 {
     color: orange;
+    text-align: center;
 }
-body > P {
-    color:black;
-}
-body > address > a {
+
+body > section > p > a{
     color:orange;
 }
-body > address > a:hover {
-    background-color: #7a7a7a;
+body > section > p > ul > li{
+    text-align: left;
+}
+body > section > p > a{
+    color:orange;
+}
+a{
+    color:orange  
+}
+img {
+    float:right;
+}
+footer {
+	clear: left;
+	background-color:black;
+	color:orange;
+	text-align:center;
+	vertical-align: middle;
+	height: 30px;
+	font-size: 0.9em;
 }

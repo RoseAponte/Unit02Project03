@@ -260,5 +260,5 @@ Things We Hated
 This is a great game for anyone 16 years or older. Younger players may have trouble with the rules and may be bored
 
 Rating: 4 / 5
-Leisure Room Gamers (http://www.example.com/leisureroom)
+Leisure Room Gamers (://www.example.com/leisureroom)
 
